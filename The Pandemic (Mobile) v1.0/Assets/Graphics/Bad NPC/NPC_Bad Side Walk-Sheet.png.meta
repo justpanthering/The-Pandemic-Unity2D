@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 71191a8b4077cff448213a04e6809cb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4170850508438578069
+    second: NPC_Bad Side Walk-Sheet_0
+  - first:
+      213: -768324620554504553
+    second: NPC_Bad Side Walk-Sheet_1
+  - first:
+      213: 6888211196572646224
+    second: NPC_Bad Side Walk-Sheet_2
+  - first:
+      213: 6869838807709930748
+    second: NPC_Bad Side Walk-Sheet_3
+  - first:
+      213: 6160391100091586030
+    second: NPC_Bad Side Walk-Sheet_4
+  - first:
+      213: -3106965582303354945
+    second: NPC_Bad Side Walk-Sheet_5
+  - first:
+      213: 1808492619058544230
+    second: NPC_Bad Side Walk-Sheet_6
+  - first:
+      213: 4027013682638600854
+    second: NPC_Bad Side Walk-Sheet_7
+  - first:
+      213: -781629056842611696
+    second: NPC_Bad Side Walk-Sheet_8
+  - first:
+      213: -8680532312041570017
+    second: NPC_Bad Side Walk-Sheet_9
+  - first:
+      213: 6635397608068936913
+    second: NPC_Bad Side Walk-Sheet_10
+  - first:
+      213: -3860795639222261169
+    second: NPC_Bad Side Walk-Sheet_11
+  - first:
+      213: -5907155989035606870
+    second: NPC_Bad Side Walk-Sheet_12
+  - first:
+      213: 73083576935622606
+    second: NPC_Bad Side Walk-Sheet_13
+  - first:
+      213: 6028663822125203577
+    second: NPC_Bad Side Walk-Sheet_14
+  - first:
+      213: 7518781565694059538
+    second: NPC_Bad Side Walk-Sheet_15
+  - first:
+      213: 6474683271180109105
+    second: NPC_Bad Side Walk-Sheet_16
+  - first:
+      213: 3351972427744408636
+    second: NPC_Bad Side Walk-Sheet_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 65
+        width: 13
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cd2498f892e16c0800000000000000
+      internalID: -4170850508438578069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 65
+        width: 13
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79679af04dc5655f0800000000000000
+      internalID: -768324620554504553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 65
+        width: 14
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bb4958697d79f50800000000000000
+      internalID: 6888211196572646224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf45eb56ff1965f50800000000000000
+      internalID: 6869838807709930748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 65
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5df6ef01b1e7550800000000000000
+      internalID: 6160391100091586030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 65
+        width: 13
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf9179a347d1e4d0800000000000000
+      internalID: -3106965582303354945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 65
+        width: 15
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e76e9847e091910800000000000000
+      internalID: 1808492619058544230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 64
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69abf4bbb93d2e730800000000000000
+      internalID: 4027013682638600854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 65
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014c5c893881725f0800000000000000
+      internalID: -781629056842611696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 13
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1146778add888780800000000000000
+      internalID: -8680532312041570017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 13
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4fc6cf7faa51c50800000000000000
+      internalID: 6635397608068936913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 14
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aa7cd42d2bb6ac0800000000000000
+      internalID: -3860795639222261169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac16b8ece0950ea0800000000000000
+      internalID: -5907155989035606870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7a9224025a30100800000000000000
+      internalID: 73083576935622606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1
+        width: 13
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97085041ecd1aa350800000000000000
+      internalID: 6028663822125203577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1
+        width: 15
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21423fe6ff3185860800000000000000
+      internalID: 7518781565694059538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135cadb7122bad950800000000000000
+      internalID: 6474683271180109105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Bad Side Walk-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34fb9cd929948e20800000000000000
+      internalID: 3351972427744408636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

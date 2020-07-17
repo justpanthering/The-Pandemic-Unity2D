@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8938148448470456018
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8938148448470456017}
+  - component: {fileID: 8938148448470456023}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8938148448470456017
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8938148448470456018}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -22.55329, y: 17.46003, z: -134.96484}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8938148448470456023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8938148448470456018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c66cd156bcdf03c44989bc763fab0ff8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AudioClips:
+  - clip: {fileID: 8300000, guid: 9ff43a9b72430194887adc2d5eb0a224, type: 3}
+    name: MenuTheme
+    volume: 0.5
+    source: {fileID: 0}
+    loop: 1
+  - clip: {fileID: 8300000, guid: d8fa267fd8fdb9c4fbc4d095354c182c, type: 3}
+    name: LevelTheme
+    volume: 0.3
+    source: {fileID: 0}
+    loop: 1
+  - clip: {fileID: 8300000, guid: 0164baa800cf7e74c8ff3bab3c0b9e2c, type: 3}
+    name: InfectedEffect
+    volume: 0.7
+    source: {fileID: 0}
+    loop: 0
+  - clip: {fileID: 8300000, guid: 671c383a12552644d8dced53b1b3323a, type: 3}
+    name: RewindEffect
+    volume: 0.3
+    source: {fileID: 0}
+    loop: 0
+  - clip: {fileID: 8300000, guid: 2a4df73075270b24e909dcb5a154c70e, type: 3}
+    name: Woosh
+    volume: 0.55
+    source: {fileID: 0}
+    loop: 0
+  - clip: {fileID: 8300000, guid: 5520476304eeaf542ac47248aceae58a, type: 3}
+    name: GoalComplete
+    volume: 0.55
+    source: {fileID: 0}
+    loop: 0
